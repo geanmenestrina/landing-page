@@ -1,0 +1,23 @@
+
+.section{
+    min-height: 100vh;
+}
+
+.main-bg{
+    background-image: url(../img/fundo-dmw.png);
+    background-position: center center;
+    background-size: cover;
+}
+
+.bg-color{
+    background-color: var(--background-color);
+}
+
+.main-content{
+    color: var(--light-gray-color);
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 10rem var(--gap);
+    
+}
+
